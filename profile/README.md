@@ -20,10 +20,10 @@ Whether you're a seasoned developer, engineer, GIS expert or just starting out, 
 
 For questions, collaborations, or more information, feel free to open an issue or reach out to us directly at OX2 IT.
 
-- Carl-Henric Niper, IT architecture and Cyber security Manager
-    See team to contact at https://ox2.atlassian.net/wiki/people/team/a50ad254-f81f-486a-8c60-c79b238a6286
-- Allan Dadvar, System Integration & Data Analytics Manager
-    See team to contact at https://ox2.atlassian.net/wiki/people/team/6d111ef3-81b5-4801-8c47-d73b1e2fe456
+Carl-Henric Niper, IT architecture and Cyber security Manager
+- See team to contact at https://ox2.atlassian.net/wiki/people/team/a50ad254-f81f-486a-8c60-c79b238a6286
+Allan Dadvar, System Integration & Data Analytics Manager
+- See team to contact at https://ox2.atlassian.net/wiki/people/team/6d111ef3-81b5-4801-8c47-d73b1e2fe456
 
 
 Thank you for visiting OX2 GitHub Organization! Together, we can learn, grow, and build amazing things.
